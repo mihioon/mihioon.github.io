@@ -6,26 +6,25 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 안녕하세요! 잡초같은 개발자 박미현입니다.
+title: Junior Backend Developer
+email: rangee3014@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  mihioon
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+#linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +47,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Spring 프레임워크 기반 JAVA와, JavaScript, Mybatis, SVN을 주로 사용하여 개발 업무를 수행해왔고,
+  업무 외에도 꾸준히 자기 계발을 위해 다양한 기술을 공부하고 있습니다. 최근에는 부트캠프를 통해 JPA와 Git 사용법을 익히고 있으며,
+  대용량 트래픽 처리 과제도 수행하여 실제로 적용할 수 있는 기술 역량을 쌓아가고 있습니다.
+  <mark>JAVA</mark><mark>Spring</mark><mark>Oracle</mark><mark>MySQL</mark><mark>JavaScript</mark><mark>JAVA</mark>
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
 
 content:
   - title: Projects # Title for the section
